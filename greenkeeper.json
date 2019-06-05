@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "16-HotRestaurant/Solved/package.json"
+      ]
+    }
+  }
+}
